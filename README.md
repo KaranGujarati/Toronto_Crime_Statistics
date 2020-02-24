@@ -1,13 +1,11 @@
-# project-3
+Toronto Crime Statistics
 
-### Project Title: Toronto Crime Dashboard
+--Goal: Toronto Crime Web Dashboard--
 
-Team Members: Arjun, Falgun, Karan, Lovjeet, Shruti
+### Description: 
+Toronto major crime indicator (MCI) as a database that contains all police records with crime location where police station is located. I have used different crime indicators from various localities and visualize it in different graphs and charts. 
 
-### Project Description/Outline: 
-Toronto major crime indicator (MCI) as a database that contains all police records with crime location where police station is located. We plan to use different crime indicators from various localities and visualize it in different graphs and charts. 
-
-### Project Tools:
+### Tools used:
 •	Excel
 •	Python, Pandas
 •	SQL (PostgreSQL)
@@ -15,12 +13,7 @@ Toronto major crime indicator (MCI) as a database that contains all police recor
 •	HTML/CSS
 •	JavaScript (D3.js, Leaflet.js, Plotly.js)
 
-### Datasets to be Used:
+### Data Source:
 We will be using datasets from Toronto Police Service Public Safety Data Portal. https://data.torontopolice.on.ca/datasets/98f7dde610b54b9081dfca80be453ac9_0/data
 
-### Rough Breakdown of Tasks: 
-•	Download data 
-•	Data Cleaning
-•	Data analysis
-•	Data visualizations with charts/graphs
-•	Prepare the presentation
+
