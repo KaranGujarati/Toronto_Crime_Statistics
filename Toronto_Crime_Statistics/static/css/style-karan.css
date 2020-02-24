@@ -8,8 +8,8 @@ body {
   }
   
   div.chart {
-    width: 1600px;
-    height: 700px;
+    width: 1500px;
+    height: 800px;
     margin: auto;
     background-color: rgb(110, 110, 110);
   }
