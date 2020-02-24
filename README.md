@@ -1,4 +1,4 @@
-Toronto Crime Statistics
+# Toronto Crime Statistics
 
 --Goal: Toronto Crime Web Dashboard--
 
